@@ -1,6 +1,8 @@
 # 💫 About Me:
-🎓 CS student at NCKU, Taiwan.<br><br>💻 Interested in Computer Architecture,<br>   System Software, and Embedded Systems.
-
+- 🎓 CS student at NCKU, Taiwan.
+- 💻 Interested in Computer Architecture, System Software, and Embedded Systems.
+- 🚀 Just getting started with software development and LeetCode.
+- 🌱 Learning, building, and improving one step at a time.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dennis-lee-03-ncku) 
@@ -13,6 +15,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DennisLee03&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=DennisLee03&icon=0&color=13)](https://visitcount.itsvg.in)
+![LeetCode Activity](https://leetcard.jacoblin.cool/DennisLee030928?theme=dark&ext=heatmap)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
